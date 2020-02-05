@@ -1,0 +1,11 @@
+/home/andres/proyectos/netcore/consoleApp/bin/Debug/netcoreapp3.1/consoleApp
+/home/andres/proyectos/netcore/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.deps.json
+/home/andres/proyectos/netcore/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.runtimeconfig.json
+/home/andres/proyectos/netcore/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.runtimeconfig.dev.json
+/home/andres/proyectos/netcore/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.dll
+/home/andres/proyectos/netcore/consoleApp/bin/Debug/netcoreapp3.1/consoleApp.pdb
+/home/andres/proyectos/netcore/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.csprojAssemblyReference.cache
+/home/andres/proyectos/netcore/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.AssemblyInfoInputs.cache
+/home/andres/proyectos/netcore/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.AssemblyInfo.cs
+/home/andres/proyectos/netcore/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.dll
+/home/andres/proyectos/netcore/consoleApp/obj/Debug/netcoreapp3.1/consoleApp.pdb
